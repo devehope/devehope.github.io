@@ -2,7 +2,7 @@ title:              devesigner의 기술블로그
 email:              devehoper@daum.net
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://devesigner.github.io"
 
 # Social Profiles
