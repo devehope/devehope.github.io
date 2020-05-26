@@ -3,12 +3,12 @@ email:              devehoper@daum.net
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://devesign.github.io"
+url:                "https://devesigner.github.io"
 
 # Social Profiles
-twitter_username:   devesign
-github_username:    devesign
-facebook_username:  devesign
+twitter_username:   devesigner
+github_username:    devehoper
+facebook_username:  devesigner
 linkedin_username:
 
 # Build settings
