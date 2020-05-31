@@ -3,7 +3,7 @@ email:              devehoper@daum.net
 description:        이것저것하는 개발자
 author:             Start Bootstrap
 baseurl:            ""
-url:                "https://devesigner.github.io?type=all"
+url:                "https://devesigner.github.io"
 
 # Social Profiles
 github_username:    devesigner
