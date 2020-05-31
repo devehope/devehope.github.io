@@ -53,8 +53,9 @@ layout: default
             <section id="disqus_thread"></section>
             <script>
                 var disqus_config = function() {
-                    this.page.url = 'https://devesigner.github.io/2017/10/27/dinosaurs.html'; // Replace PAGE_URL with your page's canonical URL variable
-                    this.page.identifier = '/2017/10/27/dinosaurs.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                    var link = document.location.href;
+                    this.page.url = link; 
+                    this.page.identifier = link.split('.io').[1]
                 };
 
                 (function() { // DON'T EDIT BELOW THIS LINE
