@@ -1,12 +1,12 @@
-title:              devesigner의 기술블로그
+title:              devehoper의 기술블로그
 email:              devehoper@daum.net
-description:        이것저것하는 개발자
+description:        
 author:             Start Bootstrap
 baseurl:            ""
-url:                "https://devesigner.github.io"
+url:                "https://devehope.github.io"
 
 # Social Profiles
-github_username:    devesigner
+github_username:    devehoper
 linkedin_username:
 
 # Build settings
@@ -17,4 +17,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-disqus_shortname: 'devesigner'
+disqus_shortname: 'devehope'
